@@ -11,7 +11,7 @@ namespace LibreriaOperadores
         public int resultado;
         public Resta(int num1, int num2)
         {
-            int resultado = num1 - num2;
+            resultado = num1 - num2;
             Console.WriteLine(resultado);
         }
     }

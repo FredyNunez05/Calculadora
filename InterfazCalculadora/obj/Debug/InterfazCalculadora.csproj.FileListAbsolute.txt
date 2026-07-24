@@ -11,4 +11,3 @@ C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\ob
 C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\obj\Debug\Interfaz.F99A48E9.Up2Date
 C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\obj\Debug\InterfazCalculadora.exe
 C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\obj\Debug\InterfazCalculadora.pdb
-C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\obj\Debug\InterfazCalculadora.exe.config
