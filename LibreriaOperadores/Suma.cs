@@ -12,7 +12,7 @@ namespace LibreriaOperadores
         public Suma(int num1, int num2)
         {
             resultado = num1 + num2;
-            Console.WriteLine(resultado);
+            Console.WriteLine(resultado + " es el resultado de la suma");
         }
     }
 }
