@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\PruebaGit\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F645BB6-9688-4786-AD6A-C35D03148142}|InterfazCalculadora\\InterfazCalculadora.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\pruebagit\\calculadora\\interfazcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F645BB6-9688-4786-AD6A-C35D03148142}|InterfazCalculadora\\InterfazCalculadora.csproj|solutionrelative:interfazcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F645BB6-9688-4786-AD6A-C35D03148142}|InterfazCalculadora\\InterfazCalculadora.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\pruebagit\\calculadora\\interfazcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F645BB6-9688-4786-AD6A-C35D03148142}|InterfazCalculadora\\InterfazCalculadora.csproj|solutionrelative:interfazcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7795D799-1E1A-4FF9-8F51-38FE11F4DAD5}|Calculadora\\Calculadora.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\pruebagit\\calculadora\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7795D799-1E1A-4FF9-8F51-38FE11F4DAD5}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69C57C8-4AF6-47EE-A1F2-43028DD1DB5C}|LibreriaOperadores\\LibreriaOperadores.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\pruebagit\\calculadora\\libreriaoperadores\\multiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69C57C8-4AF6-47EE-A1F2-43028DD1DB5C}|LibreriaOperadores\\LibreriaOperadores.csproj|solutionrelative:libreriaoperadores\\multiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69C57C8-4AF6-47EE-A1F2-43028DD1DB5C}|LibreriaOperadores\\LibreriaOperadores.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\pruebagit\\calculadora\\libreriaoperadores\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69C57C8-4AF6-47EE-A1F2-43028DD1DB5C}|LibreriaOperadores\\LibreriaOperadores.csproj|solutionrelative:libreriaoperadores\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69C57C8-4AF6-47EE-A1F2-43028DD1DB5C}|LibreriaOperadores\\LibreriaOperadores.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\pruebagit\\calculadora\\libreriaoperadores\\resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69C57C8-4AF6-47EE-A1F2-43028DD1DB5C}|LibreriaOperadores\\LibreriaOperadores.csproj|solutionrelative:libreriaoperadores\\resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69C57C8-4AF6-47EE-A1F2-43028DD1DB5C}|LibreriaOperadores\\LibreriaOperadores.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\pruebagit\\calculadora\\libreriaoperadores\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69C57C8-4AF6-47EE-A1F2-43028DD1DB5C}|LibreriaOperadores\\LibreriaOperadores.csproj|solutionrelative:libreriaoperadores\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\PruebaGit\\Calculadora\\Calculadora\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\PruebaGit\\Calculadora\\Calculadora\\Program.cs",
+              "RelativeToolTip": "Calculadora\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T03:18:45.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Division.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\PruebaGit\\Calculadora\\LibreriaOperadores\\Division.cs",
+              "RelativeDocumentMoniker": "LibreriaOperadores\\Division.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\PruebaGit\\Calculadora\\LibreriaOperadores\\Division.cs",
+              "RelativeToolTip": "LibreriaOperadores\\Division.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T03:29:51.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Multiplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\PruebaGit\\Calculadora\\LibreriaOperadores\\Multiplicacion.cs",
+              "RelativeDocumentMoniker": "LibreriaOperadores\\Multiplicacion.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\PruebaGit\\Calculadora\\LibreriaOperadores\\Multiplicacion.cs",
+              "RelativeToolTip": "LibreriaOperadores\\Multiplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T03:29:18.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resta.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\PruebaGit\\Calculadora\\LibreriaOperadores\\Resta.cs",
+              "RelativeDocumentMoniker": "LibreriaOperadores\\Resta.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\PruebaGit\\Calculadora\\LibreriaOperadores\\Resta.cs",
+              "RelativeToolTip": "LibreriaOperadores\\Resta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T03:29:00.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Suma.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\PruebaGit\\Calculadora\\LibreriaOperadores\\Suma.cs",
+              "RelativeDocumentMoniker": "LibreriaOperadores\\Suma.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\PruebaGit\\Calculadora\\LibreriaOperadores\\Suma.cs",
+              "RelativeToolTip": "LibreriaOperadores\\Suma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T03:28:48.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\PruebaGit\\Calculadora\\InterfazCalculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "InterfazCalculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\PruebaGit\\Calculadora\\InterfazCalculadora\\Form1.cs",
+              "RelativeToolTip": "InterfazCalculadora\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwCkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T03:25:40.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\PruebaGit\\Calculadora\\InterfazCalculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "InterfazCalculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\PruebaGit\\Calculadora\\InterfazCalculadora\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InterfazCalculadora\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T03:24:24.067Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

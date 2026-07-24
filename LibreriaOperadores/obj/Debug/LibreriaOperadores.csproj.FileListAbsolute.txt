@@ -1,0 +1,6 @@
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\LibreriaOperadores\bin\Debug\LibreriaOperadores.dll
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\LibreriaOperadores\bin\Debug\LibreriaOperadores.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\LibreriaOperadores\obj\Debug\LibreriaOperadores.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\LibreriaOperadores\obj\Debug\LibreriaOperadores.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\LibreriaOperadores\obj\Debug\LibreriaOperadores.dll
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\LibreriaOperadores\obj\Debug\LibreriaOperadores.pdb

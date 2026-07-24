@@ -1,0 +1,11 @@
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\Calculadora\bin\Debug\LibreriaOperadores.dll
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\Calculadora\bin\Debug\LibreriaOperadores.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\Calculadora\obj\Debug\Calculad.310BED7B.Up2Date
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\Calculadora\obj\Debug\Calculadora.exe.config

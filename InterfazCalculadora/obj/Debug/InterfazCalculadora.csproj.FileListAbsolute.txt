@@ -1,0 +1,14 @@
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\bin\Debug\InterfazCalculadora.exe.config
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\bin\Debug\InterfazCalculadora.exe
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\bin\Debug\InterfazCalculadora.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\bin\Debug\LibreriaOperadores.dll
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\bin\Debug\LibreriaOperadores.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\obj\Debug\InterfazCalculadora.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\obj\Debug\InterfazCalculadora.Form1.resources
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\obj\Debug\InterfazCalculadora.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\obj\Debug\InterfazCalculadora.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\obj\Debug\InterfazCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\obj\Debug\Interfaz.F99A48E9.Up2Date
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\obj\Debug\InterfazCalculadora.exe
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\obj\Debug\InterfazCalculadora.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\PruebaGit\Calculadora\InterfazCalculadora\obj\Debug\InterfazCalculadora.exe.config
