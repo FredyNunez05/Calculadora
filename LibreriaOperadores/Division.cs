@@ -12,7 +12,7 @@ using System.Threading.Tasks;
             public Division(float num1, float num2)
             {
                 resultado =num1 / num2;
-                Console.WriteLine(resultado);
+                Console.WriteLine(resultado + " es el resultado de la división");
             }
         }
     }
